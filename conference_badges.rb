@@ -23,7 +23,7 @@ return new_message
 end
 
 def printer(names)
-  puts printer.batch_badge_creator
+  names = 
   
    
 end
